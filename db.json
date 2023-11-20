@@ -5,8 +5,8 @@
     { "id": 3, "name": "Michael", "isAdmin": false }
   ],
   "dashboards": [
-    { "id": 1, "dashName": "some comment" },
-    { "id": 2, "dashName": "some comment" }
+    { "id": 1, "dashName": "Japan Festival" },
+    { "id": 2, "dashName": "Techno Party" }
   ],
   "dates": [
     { "id": 1, "date": "14.12.2023" },
