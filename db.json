@@ -4,8 +4,13 @@
     { "id": 2, "name": "Pascal", "isAdmin": false },
     { "id": 3, "name": "Michael", "isAdmin": false }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "dashboards": [
+    { "id": 1, "dashName": "some comment" },
+    { "id": 2, "dashName": "some comment" }
   ],
-  "profile": { "name": "typicode" }
+  "dates": [
+    { "id": 1, "date": "14.12.2023" },
+    { "id": 2, "date": "14.12.2023" },
+    { "id": 3, "date": "14.12.2023" }
+  ]
 }
