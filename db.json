@@ -1,15 +1,15 @@
 {
-    "event": [
+    "group": [
         {
-          "eventId": 1,
-          "members": [
-            { "id": 1, "name": "Carmello", "isAdmin": true },
-            { "id": 2, "name": "Pascal", "isAdmin": false },
-            { "id": 3, "name": "Michael", "isAdmin": false }
-          ]
+            "groupId": 1,
+            "members": [
+                { "id": 1, "name": "Carmello", "isAdmin": true },
+                { "id": 2, "name": "Pascal", "isAdmin": false },
+                { "id": 3, "name": "Michael", "isAdmin": false }
+             ]
         },
         {
-            "eventId": 2,
+            "groupId": 2,
             "members": [
                 { "id": 1, "name": "Selina", "isAdmin": true },
                 { "id": 2, "name": "Luca", "isAdmin": false },
