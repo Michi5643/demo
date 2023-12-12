@@ -6,7 +6,16 @@
                 { "id": 1, "name": "Carmello", "isAdmin": true },
                 { "id": 2, "name": "Pascal", "isAdmin": false },
                 { "id": 3, "name": "Michael", "isAdmin": false }
-             ]
+             ],
+            "dashboards": [
+              { "id": 1, "dashName": "Japan Festival" },
+              { "id": 2, "dashName": "Techno Party" }
+            ],
+            "dates": [
+              { "id": 1, "date": "10.12.2023" },
+              { "id": 2, "date": "31.05.2023" },
+              { "id": 3, "date": "21.01.2023" }
+            ]
         },
         {
             "groupId": 2,
@@ -14,16 +23,16 @@
                 { "id": 1, "name": "Selina", "isAdmin": true },
                 { "id": 2, "name": "Luca", "isAdmin": false },
                 { "id": 3, "name": "Ilias", "isAdmin": false }
+            ],
+            "dashboards": [
+              { "id": 1, "dashName": "Spanien Festival" },
+              { "id": 2, "dashName": "Metal Party" }
+            ],
+            "dates": [
+              { "id": 1, "date": "31.03.2023" },
+              { "id": 2, "date": "01.06.2023" },
+              { "id": 3, "date": "06.08.2024" }
             ]
         }
-    ],
-    "dashboards": [
-      { "id": 1, "dashName": "Japan Festival" },
-      { "id": 2, "dashName": "Techno Party" }
-    ],
-    "dates": [
-      { "id": 1, "date": "10.12.2023" },
-      { "id": 2, "date": "31.05.2023" },
-      { "id": 3, "date": "21.01.2023" }
     ]
 }
