@@ -1,9 +1,20 @@
 {
-  "members": [
-    { "id": 1, "name": "Carmello", "isAdmin": true },
-    { "id": 2, "name": "Pascal", "isAdmin": false },
-    { "id": 3, "name": "Michael", "isAdmin": false }
-  ],
+  "event": {
+    "eventId": 1,
+    "members": [
+      { "id": 1, "name": "Carmello", "isAdmin": true },
+      { "id": 2, "name": "Pascal", "isAdmin": false },
+      { "id": 3, "name": "Michael", "isAdmin": false }
+    ],
+  },
+  "event": {
+    "eventId": 2,
+    "members": [
+      { "id": 1, "name": "Selina", "isAdmin": true },
+      { "id": 2, "name": "Luca", "isAdmin": false },
+      { "id": 3, "name": "Ilias", "isAdmin": false }
+    ],
+  },
   "dashboards": [
     { "id": 1, "dashName": "Japan Festival" },
     { "id": 2, "dashName": "Techno Party" }
